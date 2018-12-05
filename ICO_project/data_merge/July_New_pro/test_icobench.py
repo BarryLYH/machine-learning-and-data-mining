@@ -1,0 +1,1 @@
+print(len('?utm_source=icobench'))
